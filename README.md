@@ -1,4 +1,4 @@
-<img src="IPL-Logo-09.png" width="300" align="right"/>
+<img src="IPL-Logo-09.png" width="250" align="right"/>
 
 # IPL Micro Lab
 System of hardware and software for rapid prototyping of devices.
