@@ -1,4 +1,4 @@
-<img src="IPL-Logo-09.png" width="200"/>
+<img src="IPL-Logo-09.png" width="400"/>
 
 # Ion Prototyping Micro Lab
 System of hardware and software for rapid prototyping of devices.
