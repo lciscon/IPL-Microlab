@@ -7,6 +7,9 @@ site.description: Bookmark this to keep an eye on my project updates!
 relative_links:
   enabled: true
   collections: true
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://lciscon.github.io"
 include:
   - CONTRIBUTING.md
   - README.md
