@@ -6,3 +6,18 @@ theme: jekyll-theme-modernist
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+baseurl: "/IPL-Microlab" # the subpath of your site, e.g. /blog
+url: "https://lciscon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: reganconnell__
+github_username:  lciscon
+#linkedin_username: regan-connell-3909a1178
+
+future: true
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+
+# Build settings
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
+github: [metadata]
