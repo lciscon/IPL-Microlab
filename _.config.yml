@@ -1,5 +1,5 @@
-site.title: [IPL Micro Lab]
-site.description: Bookmark this to keep an eye on my project updates!
+title: IPL Micro Lab
+description: Bookmark this to keep an eye on my project updates!
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
