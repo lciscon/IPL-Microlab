@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+title: IPL Micro Lab
+description: Bookmark this to keep an eye on my project updates!
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,4 +16,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 markdown: kramdown
-theme: minima
