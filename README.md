@@ -1,4 +1,4 @@
-<img src="IPL-Logo-09.png" width="250" align="right"/>
+<img src="IPL-Logo-09.png" width="225" align="right"/>
 <br>
 
 # Micro Lab
