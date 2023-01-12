@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><!--  JQUERY  -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+  </script>
+  <title></title>
+</head>
+<body>
+  <h1>Listing /somedir</h1><!-- Custom Script (defered load, after dom ready) -->
+  <script>
+    $.getJSON('./somedir', data => {
+        console.log(data); //["doc1.jpg", "doc2.jpg", "doc3.jpg"] 
+    });
+  </script>
+</body>
