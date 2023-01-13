@@ -1,3 +1,11 @@
+// If you don't send the path property, by default will send the contents from the root level
+const repoContent = await github.rest.repos.getContent({
+  owner: 'lciscon',
+  repo: 'IPL-Microlab'
+});
+
+console.log('Files found at root level', repoContent.data.map((file) => file.name));
+
 function update_files() {
     $('#list select option').remove();
     $.getJSON("/api/ls", function(data) {
