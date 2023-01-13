@@ -1,10 +1,10 @@
-## E115 - ESP8266 NodeMCU CP2102
+## EXXX - Name of Component
 
 ![image](CAD/E115%20-%20wifi-esp8266/ESP8266%20v7.png)
 
 ## Description    
 
-ESP8266 NodeMCU CP2102
+Description of Component
 
 ## Technical Information
 
@@ -15,10 +15,10 @@ ESP8266 NodeMCU CP2102
 
 ## Supplier Information
 
-| Supplier: | Amazon |
-| Part #: | B081CSJV2V |         
-| Pkg Count: | 3 |
-| Pkg Price: | $16.39 |
+| Supplier: | Xxx |
+| Part #: | xxx |         
+| Pkg Count: | 1 |
+| Pkg Price: | $0.00 |
 
 ## Tips & Techniques
 
