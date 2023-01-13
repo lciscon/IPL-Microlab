@@ -4,9 +4,9 @@ const octokit = new Octokit()
 
 async function update_files() {
   repoContent = octokit.rest.repos.getContent({
-    owner: 'aaronkyle',
-    repo: 'social-development',
-    path: 'social-policy'
+    owner: 'lciscon',
+    repo: 'IPL-Microlab',
+    path: 'Components/Elec'
   })
   
   console.log('Files found at root level', repoContent.data.map((file) => file.name));  
