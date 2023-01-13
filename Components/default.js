@@ -15,16 +15,6 @@ async function update_files() {
 }
 
 
-function update_files2() {
-    $('#list select option').remove();
-    $.getJSON("/api/ls", function(data) {
-        $.each(data['files'], function(index, file) {
-                $('<option />', {html: file}).appendTo($('#list select'));
-        });
-    });
-}
-
-
 $(document).ready(function() {
     $(document).on('submit', '#upload', function(e) {
         var form = $(this);
