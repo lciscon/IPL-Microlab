@@ -2,10 +2,10 @@ await import { Octokit } from "https://cdn.skypack.dev/@octokit/rest";
 
 //Octokit = (await import('https://cdn.skypack.dev/@octokit/rest@18.12.0')).Octokit
 
-const octokit = new Octokit()
+const octokit2 = new Octokit()
 
 async function update_files() {
-  repoContent = octokit.rest.repos.getContent({
+  repoContent = octokit2.rest.repos.getContent({
     owner: 'lciscon',
     repo: 'IPL-Microlab',
     path: 'Components/Elec'
