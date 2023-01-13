@@ -1,6 +1,6 @@
-//import { Octokit } from "octokit";
+import { Octokit } from "octokit";
 
-Octokit = (await import('https://cdn.skypack.dev/@octokit/rest@18.12.0')).Octokit
+//Octokit = (await import('https://cdn.skypack.dev/@octokit/rest@18.12.0')).Octokit
 
 const octokit = new Octokit()
 
