@@ -1,55 +1,60 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><!--  JQUERY  -->
+    <head>
+        <meta charset="utf-8">
+        <script src="jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <link rel="stylesheet" href="default.css">
+    </head>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
-  </script>
-  <title></title>
-</head>
-<body>
-  <h1>Listing /somedir</h1><!-- Custom Script (defered load, after dom ready) -->
-</body>
+    <body>
+        <h1>Nanoweb
+        <img src="/assets/python-logo.png">
+        </h1>
 
-  
-<script>  
- 
- async function list_directory(user, repo, directory) {
-     const url = `https://api.github.com/repos/${user}/${repo}/git/trees/master`;
-     directory = directory.split('/').filter(Boolean);
-     const dir = await directory.reduce(async (acc, dir) => {
-         const { url } = await acc;
-         const list = await fetch(url).then(res => res.json());
-         return list.tree.find(node => node.path === dir);
-     }, { url });
-     if (dir) {
-         const list = await fetch(dir.url).then(res => res.json());
-         return list.tree.map(node => node.path);
-     }
- }
+        <h2>1. File list</h2>
 
-  async function get_items(path = 'examples', filter = /\.gs$/, timeout = TIMEOUT) {
-     async function fetch() {
-         const examples = (await list_directory('jcubic', 'gaiman', path)).filter(name => {
-             return name.match(filter);
-         });
-         await idbKeyval.set(key, { time: timestamp, examples });
-         return examples;
-     }
-     const key = path;
-     const timestamp = +new Date();
-     const data = await idbKeyval.get(key);
-     if (!data) {
-         return fetch();
-     } else {
-         let { time, examples } = data;
-         if (timestamp + timeout > time) {
-             return fetch();
-         }
-         return examples;
-     }
- }
+        <p class="alert alert-info" role="alert">
+            List is updated when you upload a file.
+        </p>
 
-</script>
-  
+        <form id="list">
+            <select multiple></select>
+
+            <br>
+
+            <input class="btn btn-primary mt-2" type="submit" name="download" value="Download">
+        </form>
+
+        <h2>2. Upload</h2>
+
+        <p class="alert alert-info" role="alert">
+            Select one or more files and upload them.
+        </p>
+
+        <form id="upload" action="/api/upload/" method="POST">
+            <label for="files">Files to upload:</label>
+            <input id="files" name="files" type="file" multiple>
+            <br>
+            <input type="submit" value="Upload">
+        </form>
+
+        <div id="status" class="alert alert-primary" role="alert">
+            N/A
+        </div>
+
+        <h2>3. Information</h2>
+
+        <p class="alert alert-info" role="alert">
+            Information is polled each second to the status API.
+        </p>
+
+        <ul>
+            <li>Time: <span id="time">{time}</span></li>
+            <li>Uptime: <span id="uptime">{uptime}</span></li>
+            <li>Python: <span id="python">{python}</span></li>
+            <li>Platform: <span id="platform">{platform}</span></li>
+        </ul>
+
+        <script src="default.js"></script>
+    </body>
+</html>
