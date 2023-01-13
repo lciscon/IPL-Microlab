@@ -43,4 +43,4 @@ $(document).ready(function() {
 
  
     update_files();
- );
+});
