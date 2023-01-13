@@ -1,5 +1,5 @@
 // If you don't send the path property, by default will send the contents from the root level
-const repoContent = await github.rest.repos.getContent({
+const repoContent = github.rest.repos.getContent({. //await
   owner: 'lciscon',
   repo: 'IPL-Microlab'
 });
