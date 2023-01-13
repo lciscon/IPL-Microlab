@@ -48,8 +48,6 @@ $(document).ready(function() {
         e.preventDefault();
     });
 
-    setInterval(update_status, 1000);
-
+ 
     update_files();
-    update_status();
-});
+ );
