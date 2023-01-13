@@ -7,13 +7,6 @@ function update_files() {
     });
 }
 
-function update_status() {
-    $.getJSON("/api/status", function(data) {
-        $.each(['time', 'uptime', 'python', 'platform'], function(index, key) {
-            $('#' + key).html(data[key]);
-        });
-    });
-}
 
 $(document).ready(function() {
     $(document).on('submit', '#upload', function(e) {
