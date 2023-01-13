@@ -1,12 +1,21 @@
-// If you don't send the path property, by default will send the contents from the root level
-const repoContent = github.rest.repos.getContent({ //await
-  owner: 'lciscon',
-  repo: 'IPL-Microlab'
-});
+// import { Octokit } from "octokit";
 
-console.log('Files found at root level', repoContent.data.map((file) => file.name));
+//const octokit = new Octokit({ 
+//  baseUrl: "http(s)://HOSTNAME/api/v3",
+//});
 
-function update_files() {
+async function update_files() {
+  // If you don't send the path property, by default will send the contents from the root level
+  repoContent = await github.rest.repos.getContent({ 
+    owner: 'lciscon',
+    repo: 'IPL-Microlab'
+  });
+  
+  console.log('Files found at root level', repoContent.data.map((file) => file.name));
+}
+
+
+function update_files2() {
     $('#list select option').remove();
     $.getJSON("/api/ls", function(data) {
         $.each(data['files'], function(index, file) {
