@@ -1,17 +1,15 @@
-// import { Octokit } from "octokit";
+import { Octokit } from "octokit";
 
-//const octokit = new Octokit({ 
-//  baseUrl: "http(s)://HOSTNAME/api/v3",
-//});
+const octokit = new Octokit()
 
 async function update_files() {
-  // If you don't send the path property, by default will send the contents from the root level
-  repoContent = await github.rest.repos.getContent({ 
-    owner: 'lciscon',
-    repo: 'IPL-Microlab'
-  });
+  repoContent = octokit.rest.repos.getContent({
+    owner: 'aaronkyle',
+    repo: 'social-development',
+    path: 'social-policy'
+  })
   
-  console.log('Files found at root level', repoContent.data.map((file) => file.name));
+  console.log('Files found at root level', repoContent.data.map((file) => file.name));  
 }
 
 
