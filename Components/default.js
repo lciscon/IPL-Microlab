@@ -1,4 +1,4 @@
-await import { Octokit } from "https://cdn.skypack.dev/@octokit/rest"
+import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 
 const octokit2 = new Octokit()
 
