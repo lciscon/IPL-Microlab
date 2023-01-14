@@ -1,4 +1,5 @@
-import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
+// import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
+import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 
 const octokit2 = new Octokit()
 
