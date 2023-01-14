@@ -7,7 +7,7 @@ async function update_files() {
     owner: 'lciscon',
     repo: 'IPL-Microlab',
     path: 'Components/Elec'
-  })
+  });
   
   console.log('Files found at root level', files.data.map((file) => file.name));  
 }
