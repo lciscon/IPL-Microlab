@@ -8,6 +8,10 @@ the following URL:
 
 https://lciscon.github.io/IPL-Microlab/
 
+## General instructions
+
+https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+
 
 ## Component library instructions
 
