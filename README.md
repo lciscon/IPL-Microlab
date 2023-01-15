@@ -1,8 +1,10 @@
 
 # Welcome!
-This is a system of hardware and software for rapid prototyping of devices.
+The Microlab is a modular system of components, equipment, software, and training aimed at facilitating 
+rapid prototyping. This draws extensively upon other open source resources (e.g. Adafruit, OpenPnP, etc.)
 
-You can access the system via the following website:
+The contents of this system can be accessed interactively via Github Pages.  You can access the interface from 
+the following URL:
 
 https://lciscon.github.io/iPL-Microlab
 
