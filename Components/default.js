@@ -1,16 +1,16 @@
 // import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 
-const octokit2 = new Octokit()
+const octokit = new Octokit()
 
 async function update_files() {
-  var files = await octokit2.rest.repos.getContent({
+  var files = await octokit.rest.repos.getContent({
     owner: 'lciscon',
     repo: 'IPL-Microlab',
     path: 'Components'
   });
   
-  console.log('Files found at root level', files.data);  
+  console.log('Files found at root level', files);  
 //  console.log('Files found at root level', files.data.map((file) => file.name));  
 }
 
