@@ -10,8 +10,12 @@ async function update_files() {
     path: 'Components/Elec'
   });
   
- // console.log('Files found at root level', files.data);  
-  console.log('Files found at root level', files.data.map((file) => file.name));  
+  var files2 = files.data.filter((function (el) {
+                  return el.type == 'file'
+                  }).map((file) => file.name))
+         
+ console.log('Files found at root level', files2);  
+//  console.log('Files found at root level', files.data.map((file) => file.name));  
 }
 
 
