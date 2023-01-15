@@ -19,7 +19,7 @@ async function update_files() {
  //                 }).map((file) => file.name);
 
  console.log('Files2 found at root level', files2);  
-  $.each(data['files2'], function(index, file) {
+  $.each(files2, function(index, file) {
         $('<option />', {html: file}).appendTo($('#list select'));
 
 }
