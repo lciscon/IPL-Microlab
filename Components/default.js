@@ -7,7 +7,7 @@ async function update_files() {
   var files = await octokit.rest.repos.getContent({
     owner: 'lciscon',
     repo: 'IPL-Microlab',
-    path: 'Components/Elec'
+    path: 'Components//Elec'
   });
   
   console.log('Files found at root level', files.data);  
