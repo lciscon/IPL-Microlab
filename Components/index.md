@@ -14,8 +14,8 @@
 - [E122    Feather ESP32-S3](Elec/E122.html)
 - [E130    TinyS3 ESP32-S3](Elec/E130.html)
 - [E151    Raspberry PI Zero W](Elec/E151.html)
-- [E151    Raspberry Pi 3B](Elec/E151.html)
-- [E151    Raspberry Pi 4B](Elec/E151.html)
+- [E152    Raspberry Pi 3B](Elec/E152.html)
+- [E153    Raspberry Pi 4B](Elec/E153.html)
 - [E190    Miscellaneous](Elec/E190.html)
 
 ### E200 - Shields & Boards
@@ -44,4 +44,4 @@
 
 ## H - Hardware
 
-## H100 - Hinges & Handles
+### H100 - Hinges & Handles
