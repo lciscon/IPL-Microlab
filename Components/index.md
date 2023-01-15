@@ -1,5 +1,6 @@
 
 ## E - Electronics
+***
 
 ### E100 - Single Board Computers
 
@@ -34,6 +35,7 @@
 
 ### E900 - Miscellaneous
 
+<br><br><br>
 
 ## N - Nuts & Bolts
 ***
@@ -41,6 +43,9 @@
 ### N100 - Metric
 
 ### N200 - Imperial
+
+<br><br><br>
+
 
 
 ## H - Hardware
