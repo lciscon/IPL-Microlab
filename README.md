@@ -10,6 +10,9 @@ https://lciscon.github.io/IPL-Microlab/
 
 ## General instructions
 
+To contribute to the Microlab project you should follow the standard process 
+for adding to Github projects.  Here is a primer:
+
 https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 
