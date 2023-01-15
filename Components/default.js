@@ -4,7 +4,7 @@ import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 const octokit2 = new Octokit()
 
 async function update_files() {
-  var files = octokit2.rest.repos.getContent({
+  var files = await octokit2.rest.repos.getContent({
     owner: 'lciscon',
     repo: 'IPL-Microlab',
     path: 'Components'
