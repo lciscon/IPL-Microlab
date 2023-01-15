@@ -10,7 +10,7 @@ async function update_files() {
     path: 'Components'
   });
   
-  console.log('Files found at root level', files);  
+  console.log('Files found at root level', files.data);  
 //  console.log('Files found at root level', files.data.map((file) => file.name));  
 }
 
