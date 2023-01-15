@@ -18,8 +18,10 @@ async function update_files() {
  //                 return el.type == 'file'
  //                 }).map((file) => file.name);
 
+ $('#list select option').remove();
+
  console.log('Files2 found at root level', files2);  
-  $.each(files2, function(index, file) {
+ $.each(files2, function(index, file) {
         $('<option />', {html: file}).appendTo($('#list select'));
   }
 
