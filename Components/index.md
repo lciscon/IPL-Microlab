@@ -35,7 +35,7 @@
 
 ### E900 - Miscellaneous
 
-<br><br><br>
+<br>
 
 ## N - Nuts & Bolts
 ***
@@ -44,9 +44,7 @@
 
 ### N200 - Imperial
 
-<br><br><br>
-
-
+<br>
 
 ## H - Hardware
 ***
