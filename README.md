@@ -6,7 +6,8 @@ rapid prototyping. This draws extensively upon other open source resources (e.g.
 The contents of this system can be accessed interactively via Github Pages.  You can access the interface from 
 the following URL:
 
-https://lciscon.github.io/iPL-Microlab
+https://lciscon.github.io/iPL-Microlab/
+
 
 ## General instructions
 
