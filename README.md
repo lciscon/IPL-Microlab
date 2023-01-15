@@ -28,7 +28,14 @@ a template for that file located in the Components/template subdirectory.
 
 1. Make a copy of the component template file.
 2. Name the file to match the component ID (e.g. E245.md)
-3. 
+3. Move it into the corresponding folder (e.g. Components/E- Electrical)
+4. Fill out the contents of the file.
+
+This file is formatting using the Markdown syntax.  You can find information about it here:
+
+https://www.markdownguide.org/getting-started/
+
+
 
 
 
