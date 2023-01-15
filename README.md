@@ -2,7 +2,19 @@
 # Welcome!
 This is a system of hardware and software for rapid prototyping of devices.
 
-General instructions
+You can access the system via the following website:
 
-## [Components Library](Components/index.html)
+https://lciscon.github.io/iPL-Microlab
+
+## General instructions
+
+###  Adding Components
+
+Each component has a code associated with it (e.g. E115) that consists of a letter followed by a number.
+
+
+
+
+
+
 
