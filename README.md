@@ -50,7 +50,7 @@ https://www.markdownguide.org/getting-started/
 
 <br>
 
-*Creating the QR Code*
+**Creating the QR Code**
 
 Also you will have to create a QR Code for the label.  The QR Code should point directly to the URL of the file you
 just created, but with the "html" extension rather than "md".  Something like this:
@@ -61,7 +61,7 @@ just created, but with the "html" extension rather than "md".  Something like th
 
 <br>
 
-*Assigning a color*
+**Assigning a color**
 
 Also each part sub-category has a color associated with it.  For example E100 (Single Board Computers) are yellow. The background color of the label should be set to this color. Here are the current assignments:
 
