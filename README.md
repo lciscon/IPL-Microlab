@@ -31,19 +31,32 @@ a template for that file located in the Components/template subdirectory.
 3. Move it into the corresponding folder (e.g. Components/E- Electrical)
 4. Fill out the contents of the file.
 5. Create a label for the box using the Microsoft Word label template in the Components/template directory. 
+6. Print the label and put it on the box.
 
-You will have to create a QR Code for the label.  The QR Code should point directly to the URL of the file you
+You edit the template file using a text editor.  Do not change the headings or overall format.
+All you need to do is fill out the values in the table rows.  The table rows look like this (without quotes):
+
+"| Supplier: | XXX |"
+
+Replace the "XXX" value with the correct value for the new parts.
+
+<br>
+
+Also you will have to create a QR Code for the label.  The QR Code should point directly to the URL of the file you
 just created, but with the "html" extension rather than "md".  Something like this:
 
 "https://lciscon.github.io/IPL-Microlab/Components/E%20-%20Electrical/E110.html"
 
 **DO NOT USE INTERMEDIATE SERVICES OR LINK SERVERS!!!**
 
+<br>
+
 Also each part category has a color associated with it. The background color of the label should be set to this color.
 Here are the current assignments:
 
   E100  Yellow
   
+<br>
 
 This file is formatting using the Markdown syntax.  You can find information about it here:
 
