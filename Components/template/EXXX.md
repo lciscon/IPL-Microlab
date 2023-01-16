@@ -6,6 +6,12 @@
 
 Description of Component
 
+## Library Options
+
+| Status: | Inactive |
+| Min Qty: | 0 |
+| Layout | Other | 
+
 ## Technical Information
 
 | Data Sheet: | [Datasheet-ESP8266ESP-12E-OFFICIAL.pdf](https://www.etechnophiles.com/wp-content/uploads/2021/11/Datasheet-ESP8266ESP-12E-OFFICIAL.pdf) |
