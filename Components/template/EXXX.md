@@ -1,6 +1,6 @@
 ## EXXX - Name of Component
 
-![image](CAD/E115%20-%20wifi-esp8266/ESP8266%20v7.png)
+![image](CAD/EXXX/image.png)
 
 ## Description    
 
