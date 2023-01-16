@@ -34,7 +34,8 @@ a template for that file located in the Components/template subdirectory.
 5. Create a label for the box using the Microsoft Word label template in the Components/template directory. 
 6. Print the label and put it on the box.
 
-*Editing the Markup file*
+**Editing the Markup file**
+
 You edit the template file using a text editor.  Do not change the headings or overall format.
 All you need to do is fill out the values in the table rows.  The table rows look like this (without quotes):
 
