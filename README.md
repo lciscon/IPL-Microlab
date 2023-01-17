@@ -15,6 +15,8 @@ for adding to Github projects.  Here is a primer:
 
 https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
+https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files
+
 
 ## Component library instructions
 
