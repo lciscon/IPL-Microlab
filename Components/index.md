@@ -25,7 +25,7 @@
 
 **Stepper**
 - [E310    Nema 14, Round](E - Electrical/E310.html)
-- [E311    Nema 17](E - Electrical/E311.html)
+- [E311    Nema 17, IPL Standard](E - Electrical/E311.html)
 - [E312    Nema 23](E - Electrical/E312.html)
 - [E313    Misc. Stepper](E - Electrical/E313.html)
 
