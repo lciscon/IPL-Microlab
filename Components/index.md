@@ -23,25 +23,25 @@
 
 ### E300 - Motors & Controllers
 
-  **Stepper**
+**Stepper**
 - [E310    Nema 14, Round](E - Electrical/E310.html)
 - [E311    Nema 17](E - Electrical/E311.html)
 - [E312    Nema 23](E - Electrical/E312.html)
 - [E313    Misc. Stepper](E - Electrical/E313.html)
 
-  **Servo**
+**Servo**
 - [E314    Small Servo](E - Electrical/E314.html)
 - [E315    Big Servo](E - Electrical/E315.html)
 - [E313    Misc. Servo](E - Electrical/E316.html)
 
-  **DC**
+**DC**
 - [E317    Ungeared DC](E - Electrical/E317.html)
 - [E318    Gearing 1 DC](E - Electrical/E318.html)
 - [E319    Gearing 2 DC](E - Electrical/E319.html)
 - [E320    Misc. DC](E - Electrical/E320.html)
 
-  **Pumps**
-- [E321    Pereistaltic pumps](E - Electrical/E321.html)
+**Pumps**
+- [E321    Peristaltic Pumps](E - Electrical/E321.html)
 
 ### E400 - Sensors
 
@@ -70,6 +70,17 @@
 ### N100 - Metric
 
 ### N200 - Imperial
+
+<br>
+
+## M - Mechanical
+***
+
+### M100 - Bearings
+
+### M200 - Shafts Rails
+
+### M300 - Gearboxes and Linkages
 
 <br>
 
