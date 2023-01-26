@@ -27,21 +27,19 @@
 - [E310    Nema 14, Round](E - Electrical/E310.html)
 - [E311    Nema 17, IPL Standard](E - Electrical/E311.html)
 - [E312    Nema 23, IPL Standard](E - Electrical/E312.html)
-- [E313    Misc. Stepper](E - Electrical/E313.html)
+- [E313    Misc. Stepper Motors](E - Electrical/E313.html)
 
 **Servo**
-- [E314    Small Servo](E - Electrical/E314.html)
-- [E315    Big Servo](E - Electrical/E315.html)
-- [E313    Misc. Servo](E - Electrical/E316.html)
+- [E320    9G Micro Servo, Non-Continuous, IPL Standard](E - Electrical/E320.html)
+- [E321    High Torque Servo, Non-Continuous, IPL Standard](E - Electrical/E321.html)
+- [E322    High Torque Servo, Continuous, IPL Standard](E - Electrical/E322.html)
+- [E329    Misc. Servo Motors](E - Electrical/E329.html)
 
 **DC**
-- [E317    Ungeared DC](E - Electrical/E317.html)
-- [E318    Gearing 1 DC](E - Electrical/E318.html)
-- [E319    Gearing 2 DC](E - Electrical/E319.html)
-- [E320    Misc. DC](E - Electrical/E320.html)
+- [E339    Misc. DC Motors](E - Electrical/E339.html)
 
 **Pumps**
-- [E321    Peristaltic Pumps](E - Electrical/E321.html)
+- [E349    Misc. Pumps](E - Electrical/E340.html)
 
 ### E400 - Sensors
 
