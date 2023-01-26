@@ -39,7 +39,7 @@
 - [E339    Misc. DC Motors](E - Electrical/E339.html)
 
 **Pumps**
-- [E349    Misc. Pumps](E - Electrical/E340.html)
+- [E349    Misc. Pumps](E - Electrical/E349.html)
 
 ### E400 - Sensors
 
