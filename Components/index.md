@@ -43,11 +43,17 @@
 
 ### E400 - Sensors
 
-### E500 - Switches
+### E500 - Diplays and LEDs
 
-### E600 - Connectors
+- [E510    LED1](E - Electrical/E510.html)
+- [E511    LED2](E - Electrical/E511.html)
+- [E512    LED3](E - Electrical/E512.html)
+- [E513    LED4](E - Electrical/E513.html)
+- [E514    LED5](E - Electrical/E514.html)
 
-### E700 - Cables & Wires
+### E600 - Switches
+
+### E700 - Connectors, Cables & Wires
 
 ### E800 - Proto Boards
 
