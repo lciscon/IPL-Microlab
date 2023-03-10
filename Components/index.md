@@ -63,8 +63,8 @@
 
 **Non Addressable LEDs**
 
-- [E537  -  LED, Misc. RGB](E - Electrical/E539.html)
-- [E538  -  LED, Misc. Single Color](E - Electrical/E539.html)
+- [E537  -  LED, Misc. RGB](E - Electrical/E537.html)
+- [E538  -  LED, Misc. Single Color](E - Electrical/E538.html)
 - [E539  -  LED, Misc. Strip](E - Electrical/E539.html)
 
 **Displays**
