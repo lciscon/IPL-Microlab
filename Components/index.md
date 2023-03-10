@@ -40,7 +40,6 @@
 
 **Pumps, Fans, and Other Motors in Disguise**
 - [E349  -  Misc. Pumps](E - Electrical/E349.html)
-
 - [E359  -  Misc. Fans](E - Electrical/E359.html)
 
 ### E400 - Sensors
@@ -74,7 +73,7 @@
 **Switch**
 - [E620  -  Rocker Switch, 2 Way, All Sizes](E - Electrical/E620.html)
 - [E621  -  Toggle Switch, 2 Way, Large](E - Electrical/E621.html)
-- [E622  -  Toggle Switch, 3 Way, Small](E - Electrical/E622.html)
+- [E622  -  Toggle Switch, 3 Way, Micro](E - Electrical/E622.html)
 - [E623  -  Micro Switch (Limit Switch)](E - Electrical/E623.html)
 
 **Knob**
