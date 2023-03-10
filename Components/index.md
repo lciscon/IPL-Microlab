@@ -38,8 +38,11 @@
 **DC**
 - [E339    Misc. DC Motors](E - Electrical/E339.html)
 
-**Pumps and Fans**
+**Pumps**
 - [E349    Misc. Pumps](E - Electrical/E349.html)
+
+**Fans**
+- [E359    Misc. Fans](E - Electrical/E359.html)
 
 ### E400 - Sensors
 
@@ -51,20 +54,20 @@
 - [E513    LED4](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
 
-### E600 - Switches Buttons and Knobs
+### E600 - Control Mechanisms
 
 **Button**
 - [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
-- [E611    LED Push Button, Arcade Style, ](E - Electrical/E610.html)
+- [E611    LED Push Button, Arcade Style, ](E - Electrical/E611.html)
 
 **Switch**
-- [E612    2 Way Rocker Switch, All Sizes](E - Electrical/E610.html)
-- [E612    2 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
-- [E612    3 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
-- [E613    Micro Switch (Limit Switch)](E - Electrical/E610.html)
+- [E620    2 Way Rocker Switch, All Sizes](E - Electrical/E620.html)
+- [E621    2 Way Toggle Switch, All Sizes](E - Electrical/E621.html)
+- [E622    3 Way Toggle Switch, All Sizes](E - Electrical/E622.html)
+- [E623    Micro Switch (Limit Switch)](E - Electrical/E623.html)
 
 **Knob**
-- [E620    Rotary Encoder, KY-040](E - Electrical/E620.html)
+- [E630    Rotary Encoder, KY-040](E - Electrical/E630.html)
 
 ### E700 - Connectors, Cables & Wires
 
