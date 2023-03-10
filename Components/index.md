@@ -55,7 +55,7 @@
 
 - [E610    2 Way Toggle Switch](E - Electrical/E610.html)
 - [E610    2 Way Toggle Switch](E - Electrical/E610.html)
-- [E611    Rotary Encoder](E - Electrical/E611.html)
+- [E620    Rotary Encoder, KY-040](E - Electrical/E620.html)
 
 ### E700 - Connectors, Cables & Wires
 
