@@ -21,7 +21,7 @@
 
 ### E200 - Shields & Boards
 
-### E300 - Motors & Controllers
+### E300 - Motors 
 
 **Stepper**
 - [E310    Nema 14, Round](E - Electrical/E310.html)
@@ -51,10 +51,14 @@
 - [E513    LED4](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
 
-### E600 - Switches and Knobs
+### E600 - Switches Buttons and Knobs
 
-- [E610    2 Way Toggle Switch](E - Electrical/E610.html)
-- [E610    2 Way Toggle Switch](E - Electrical/E610.html)
+- [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
+- [E611    LED Push Button, Arcade Style, ](E - Electrical/E610.html)
+- [E612    2 Way Rocker Switch, All Sizes](E - Electrical/E610.html)
+- [E612    2 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
+- [E612    3 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
+- [E613    Micro Switch (Limit Switch)](E - Electrical/E610.html)
 - [E620    Rotary Encoder, KY-040](E - Electrical/E620.html)
 
 ### E700 - Connectors, Cables & Wires
