@@ -49,8 +49,8 @@
 
 - [E510    Addressable 5050 RGB LED with Integrated Driver, DotStar Style](E - Electrical/E510.html)
 - [E511    Addressable 2020 RGB Micro LED with Integrated Driver, DotStar Style](E - Electrical/E511.html)
-- [E512    LED3](E - Electrical/E512.html)
-- [E513    LED4](E - Electrical/E513.html)
+- [E512    Addressable 5050 RGB LED Strips, DotStar Style](E - Electrical/E512.html)
+- [E513    Addressable 5050 RGB LED Matrices, DotStar Style](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
 
 **Addressable LEDs, Neopixel Style**
@@ -61,8 +61,7 @@
 
 **Non Addressable LEDs**
 
-- [E530    LED10](E - Electrical/E530.html)
-- [E531    LED11](E - Electrical/E531.html)
+- [E539    LED10](E - Electrical/E539.html)
 
 ### E600 - Switches
 
