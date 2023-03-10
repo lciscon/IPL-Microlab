@@ -66,7 +66,15 @@
 
 - [E537  -  LED, Misc. RGB](E - Electrical/E539.html)
 - [E538  -  LED, Misc. Single Color](E - Electrical/E539.html)
-- [E539  -  LED, Misc. Matrix](E - Electrical/E539.html)
+- [E539  -  LED, Misc. Strip](E - Electrical/E539.html)
+
+**Displays**
+
+- [E540  -  Display, LED](E - Electrical/E540.html)
+- [E541  -  Display, LED, Touch](E - Electrical/E541.html)
+- [E542  -  Display, LCD](E - Electrical/E542.html)
+- [E543  -  Display, LED, Non-Serial](E - Electrical/E543.html)
+- [E549  -  Display, Misc.](E - Electrical/E549.html)
 
 ### E600 - Control Mechanisms
 
