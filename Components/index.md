@@ -47,8 +47,8 @@
 
 **Dotstar Style, Addressable**
 
-- [E510    DotStar Style Addressable 5050 RGB LED with Integrated Driver, Surface Mount](E - Electrical/E510.html)
-- [E511    DotStar Style Addressable 2020 RGB Micro LED with Integrated Driver, Surface Mount](E - Electrical/E511.html)
+- [E510    Addressable 5050 RGB LED with Integrated Driver, DotStar Style](E - Electrical/E510.html)
+- [E511    Addressable 2020 RGB Micro LED with Integrated Driver, DotStar Style](E - Electrical/E511.html)
 - [E512    LED3](E - Electrical/E512.html)
 - [E513    LED4](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
