@@ -53,7 +53,7 @@
 
 ### E600 - Switches Buttons and Knobs
 
-**Stepper**
+**Button**
 - [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
 - [E611    LED Push Button, Arcade Style, ](E - Electrical/E610.html)
 
