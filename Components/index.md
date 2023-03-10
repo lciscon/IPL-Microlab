@@ -38,10 +38,9 @@
 **DC**
 - [E339  -  Misc. DC Motors](E - Electrical/E339.html)
 
-**Pumps**
+**Pumps, Fans, and Other Motors in Disguise**
 - [E349  -  Misc. Pumps](E - Electrical/E349.html)
 
-**Fans**
 - [E359  -  Misc. Fans](E - Electrical/E359.html)
 
 ### E400 - Sensors
