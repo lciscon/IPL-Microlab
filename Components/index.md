@@ -38,7 +38,7 @@
 **DC**
 - [E339    Misc. DC Motors](E - Electrical/E339.html)
 
-**Pumps**
+**Pumps and Fans**
 - [E349    Misc. Pumps](E - Electrical/E349.html)
 
 ### E400 - Sensors
@@ -53,12 +53,17 @@
 
 ### E600 - Switches Buttons and Knobs
 
+**Stepper**
 - [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
 - [E611    LED Push Button, Arcade Style, ](E - Electrical/E610.html)
+
+**Switch**
 - [E612    2 Way Rocker Switch, All Sizes](E - Electrical/E610.html)
 - [E612    2 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
 - [E612    3 Way Toggle Switch, All Sizes](E - Electrical/E610.html)
 - [E613    Micro Switch (Limit Switch)](E - Electrical/E610.html)
+
+**Knob**
 - [E620    Rotary Encoder, KY-040](E - Electrical/E620.html)
 
 ### E700 - Connectors, Cables & Wires
