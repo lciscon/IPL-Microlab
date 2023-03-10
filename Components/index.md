@@ -46,23 +46,34 @@
 
 ### E500 - Displays and LEDs
 
-**Addressable LEDs, Dotstar Style**
+**DotStar LEDs**
 
-- [E510  -  Addressable 5050 RGB LED with Integrated Driver, DotStar Style](E - Electrical/E510.html)
-- [E511  -  Addressable 2020 RGB Micro LED with Integrated Driver, DotStar Style](E - Electrical/E511.html)
-- [E512  -  Addressable 5050 RGB LED Strips, DotStar Style](E - Electrical/E512.html)
-- [E513  -  Addressable 5050 RGB LED Matrices, DotStar Style](E - Electrical/E513.html)
-- [E514  -  LED5](E - Electrical/E514.html)
+- [E510  -  DotStar, RGB, 5050](E - Electrical/E510.html)
+- [E511  -  DotStar, RGB, 2020](E - Electrical/E511.html)
+- [E512  -  DotStar, RGB, 5050, Strip](E - Electrical/E512.html)
+- [E513  -  DotStar, RGB, 5050, Matrix](E - Electrical/E513.html)
+- [E514  -  DotStar, RGB, 2020, Matrix](E - Electrical/E514.html)
 
-**Addressable LEDs, Neopixel Style**
+**Neopixel LEDs**
 
-- [E520  -  LED7](E - Electrical/E520.html)
-- [E521  -  LED8](E - Electrical/E521.html)
-- [E522  -  LED9](E - Electrical/E522.html)
+- [E520  -  Neopixel, RGB, 5050](E - Electrical/E520.html)
+- [E521  -  Neopixel, RGB, 2020](E - Electrical/E521.html)
+- [E522  -  Neopixel, RGB, 5050, Strip](E - Electrical/E522.html)
+- [E523  -  Neopixel, RGB, 5050, Matrix](E - Electrical/E523.html)
 
 **Non Addressable LEDs**
 
-- [E539  -  LED10](E - Electrical/E539.html)
+- [E537  -  LED, Misc. RGB](E - Electrical/E537.html)
+- [E538  -  LED, Misc. Single Color](E - Electrical/E538.html)
+- [E539  -  LED, Misc. Strip](E - Electrical/E539.html)
+
+**Displays**
+
+- [E540  -  Display, LED](E - Electrical/E540.html)
+- [E541  -  Display, LED, Touch](E - Electrical/E541.html)
+- [E542  -  Display, LCD](E - Electrical/E542.html)
+- [E543  -  Display, LED, Non-Serial](E - Electrical/E543.html)
+- [E549  -  Display, Misc.](E - Electrical/E549.html)
 
 ### E600 - Control Mechanisms
 
