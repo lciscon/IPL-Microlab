@@ -43,7 +43,7 @@
 
 ### E400 - Sensors
 
-### E500 - Diplays and LEDs
+### E500 - Displays and LEDs
 
 - [E510    LED1](E - Electrical/E510.html)
 - [E511    LED2](E - Electrical/E511.html)
@@ -51,7 +51,11 @@
 - [E513    LED4](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
 
-### E600 - Switches
+### E600 - Switches and Knobs
+
+- [E610    2 Way Toggle Switch](E - Electrical/E610.html)
+- [E610    2 Way Toggle Switch](E - Electrical/E610.html)
+- [E611    Rotary Encoder](E - Electrical/E611.html)
 
 ### E700 - Connectors, Cables & Wires
 
@@ -82,7 +86,7 @@
 
 ### M100 - Bearings
 
-### M200 - Shafts Rails
+### M200 - Shafts and Rails
 
 ### M300 - Gearboxes and Linkages
 
