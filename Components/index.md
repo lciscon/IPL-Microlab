@@ -21,7 +21,7 @@
 
 ### E200 - Shields & Boards
 
-### E300 - Motors & Controllers
+### E300 - Motors 
 
 **Stepper**
 - [E310    Nema 14, Round](E - Electrical/E310.html)
@@ -41,9 +41,12 @@
 **Pumps**
 - [E349    Misc. Pumps](E - Electrical/E349.html)
 
+**Fans**
+- [E359    Misc. Fans](E - Electrical/E359.html)
+
 ### E400 - Sensors
 
-### E500 - Diplays and LEDs
+### E500 - Displays and LEDs
 
 **Addressable LEDs, Dotstar Style**
 
@@ -63,7 +66,20 @@
 
 - [E539    LED10](E - Electrical/E539.html)
 
-### E600 - Switches
+### E600 - Control Mechanisms
+
+**Button**
+- [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
+- [E611    LED Push Button, Arcade Style, ](E - Electrical/E611.html)
+
+**Switch**
+- [E620    2 Way Rocker Switch, All Sizes](E - Electrical/E620.html)
+- [E621    2 Way Toggle Switch, All Sizes](E - Electrical/E621.html)
+- [E622    3 Way Toggle Switch, All Sizes](E - Electrical/E622.html)
+- [E623    Micro Switch (Limit Switch)](E - Electrical/E623.html)
+
+**Knob**
+- [E630    Rotary Encoder, KY-040](E - Electrical/E630.html)
 
 ### E700 - Connectors, Cables & Wires
 
@@ -94,7 +110,7 @@
 
 ### M100 - Bearings
 
-### M200 - Shafts Rails
+### M200 - Shafts and Rails
 
 ### M300 - Gearboxes and Linkages
 
