@@ -45,7 +45,7 @@
 
 ### E500 - Diplays and LEDs
 
-**Dotstar Style, Addressable**
+**Addressable LEDs, Dotstar Style**
 
 - [E510    Addressable 5050 RGB LED with Integrated Driver, DotStar Style](E - Electrical/E510.html)
 - [E511    Addressable 2020 RGB Micro LED with Integrated Driver, DotStar Style](E - Electrical/E511.html)
@@ -53,13 +53,13 @@
 - [E513    LED4](E - Electrical/E513.html)
 - [E514    LED5](E - Electrical/E514.html)
 
-**Neopixel Style, Addressable**
+**Addressable LEDs, Neopixel Style**
 
 - [E520    LED7](E - Electrical/E520.html)
 - [E521    LED8](E - Electrical/E521.html)
 - [E522    LED9](E - Electrical/E522.html)
 
-**Non Addressable**
+**Non Addressable LEDs**
 
 - [E530    LED10](E - Electrical/E530.html)
 - [E531    LED11](E - Electrical/E531.html)
