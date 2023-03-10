@@ -57,8 +57,8 @@
 ### E600 - Control Mechanisms
 
 **Button**
-- [E610    Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
-- [E611    LED Push Button, Arcade Style, ](E - Electrical/E611.html)
+- [E610    Momentary Push Button, Through Hole, All Sizes](E - Electrical/E610.html)
+- [E611    Momentary LED Push Button, Arcade Style, ](E - Electrical/E611.html)
 
 **Switch**
 - [E620    2 Way Rocker Switch, All Sizes](E - Electrical/E620.html)
